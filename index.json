@@ -1,0 +1,11 @@
+{
+  "org": "PennyLaneAI",
+  "repo": "diastatic-malt",
+  "versions": [
+    {
+      "commit": "37d629ea93ed2f8d2eed811219615bc1d63fcebf",
+      "tag": "v2.15.3",
+      "parsed_at": "2026-10-28T18:56:48.009998+00:00"
+    }
+  ]
+}
