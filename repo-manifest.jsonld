@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/diastatic-malt/commit/37d629ea93ed2f8d2eed811219615bc1d63fcebf",
       "git:hexsha": "37d629ea93ed2f8d2eed811219615bc1d63fcebf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.15.3"
     },
     {
